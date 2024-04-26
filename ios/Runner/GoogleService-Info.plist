@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyC7n8oxZXQrHJ1w4Vj1P3B7ZVhfPvdyQMw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>649244069273</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.us</string>
+	<key>PROJECT_ID</key>
+	<string>usquttion</string>
+	<key>STORAGE_BUCKET</key>
+	<string>usquttion.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:649244069273:ios:732f4e09810d31c3b85708</string>
+	<key>DATABASE_URL</key>
+	<string>https://usquttion-default-rtdb.europe-west1.firebasedatabase.app</string>
+</dict>
+</plist>

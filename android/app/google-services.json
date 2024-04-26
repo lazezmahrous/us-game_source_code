@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "649244069273",
+    "firebase_url": "https://usquttion-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "usquttion",
+    "storage_bucket": "usquttion.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649244069273:android:df7f368c6220c8c2b85708",
+        "android_client_info": {
+          "package_name": "com.example.us"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATflC05N8UxM6rugEFEuJiL_7y9Kp9Ffk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
